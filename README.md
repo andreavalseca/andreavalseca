@@ -1,5 +1,5 @@
 Hi, I’m Andrea Valseca
-25 years. Puebla,México 
+- 25 years
 Digital Art
 Currently learning html & CSS. 
 
